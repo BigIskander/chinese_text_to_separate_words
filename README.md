@@ -5,9 +5,9 @@ This script is made only in educational purposes.
 
 How to use:
 
-Put text files (.txt) with chinese text in <code>./subtitles</code> folder, get separate list of words from text in <code>./output</code> folder. 
+Put text files (.txt) with chinese text in <code>./subtitles</code> folder and execute <code>node index.js</code>.
 
-And execute <code>node index.js</code>
+You will get separate list of words from text in <code>./output</code> folder. 
 
 Words in the list of words is not repeating.
 
