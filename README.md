@@ -19,4 +19,4 @@ Node js 18 [https://nodejs.org/] or newer should be installed
 
 To install dependencies execute <code>node install</code>
 
-This script depends on chinese-tokenizer [https://www.npmjs.com/package/chinese-tokenizer] and cc-ccedict chinese-english dictionary [https://cc-cedict.org/editor/editor.php].
+This script depends on chinese-tokenizer [https://www.npmjs.com/package/chinese-tokenizer] and cc-cedict chinese-english dictionary [https://cc-cedict.org/editor/editor.php].
