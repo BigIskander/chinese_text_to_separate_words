@@ -15,7 +15,7 @@ You can exclude some words by adding them the to file no_words.txt (each word in
 
 Requirements:
 
-Node js 18 or newer should be installed
+Node js 18 [https://nodejs.org/] or newer should be installed
 
 To install dependencies execute <code>node install</code>
 
