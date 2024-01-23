@@ -22,7 +22,7 @@
 
 Должен быть установлен Node js 18 [https://nodejs.org/] или более новой версии.
 
-Для того чтобы установить зависимости, выполните комманду <code>node install</code>
+Для того чтобы установить зависимости, выполните комманду <code>npm install</code>
 
 <b>Скрипт использует:</b> </br>
 chinese-tokenizer [https://www.npmjs.com/package/chinese-tokenizer] и  </br>
@@ -50,7 +50,7 @@ You can exclude some words by adding them the to file no_words.txt (each word in
 
 Node js 18 [https://nodejs.org/] or newer should be installed
 
-To install dependencies execute <code>node install</code>
+To install dependencies execute <code>npm install</code>
 
 <b>This script uses:</b> </br>
 chinese-tokenizer [https://www.npmjs.com/package/chinese-tokenizer] and  </br>
