@@ -2,11 +2,11 @@
 
 <a href="#ENG">In English</a>
 
-Скрип для получения списка отдельных слов из текста на китайском.
+Скрипт для получения списка отдельных слов из текста на китайском.
 
 Это скрипт написан только в образовательных целях.
 
-<b>Как исползовать:</b>
+<b>Как использовать:</b>
 
 Создать папки <code>./subtitles</code> и <code>./output</code> в папке со скриптом.
 
@@ -32,11 +32,11 @@ cc-cedict китайско-английский словарь [https://cc-cedic
 
 A script to get list of separate words from chinese text.
 
-This script is made only in educational purposes.
+This script is made only for educational purposes.
 
 <b>How to use:</b>
 
-Create ./subtitles and ./output folders in the folder with this script.
+Create <code>./subtitles</code> and <code>./output</code> folders in the folder with this script.
 
 Put text files (.txt) with chinese text in <code>./subtitles</code> folder and execute <code>node index.js</code>.
 
@@ -44,7 +44,7 @@ You will get separate list of words from text in <code>./output</code> folder.
 
 Words in the list of words is not repeating.
 
-You can exclude some words by adding them the to file no_words.txt (each word in separate line).
+You can exclude some words by adding them to the file no_words.txt (each word in separate line).
 
 <b>Requirements:</b>
 
